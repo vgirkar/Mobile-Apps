@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homework02</string>
+    <string name="Users">Users</string>
+    <string name="FilterState">Filter By State</string>
+    <string name="Sort">Sort</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Filter">Filter</string>
+    <string name="female">Female</string>
+    <string name="InterfaceMsg">must implement IListener</string>
+    <string name="Ageold">Years Old</string>
+    <string name="allStates">All States</string>
+    <string name="Age">Age</string>
+    <string name="Name">Name</string>
+    <string name="state">State</string>
+    <string name="Asc">Ascending</string>
+    <string name="Dsc">Descending</string>
+    <string name="Param1">ARG_USER</string>
+    <string name="param2">ARG_USER_SORT</string>
+    <string name="param3">ARG_USER_TYPE</string>
+</resources>
