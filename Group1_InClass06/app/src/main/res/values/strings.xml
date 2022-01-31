@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group1_InClass06</string>
+    <string name="textViewProgress"> </string>
+    <string name="textViewAverage"> </string>
+    <string name="textViewSelect">Selected Complexity</string>
+    <string name="textViewComplexity">8 Times</string>
+    <string name="buttonGenerate">Generate</string>
+</resources>
